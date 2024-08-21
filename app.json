@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "transactions-list",
+    "slug": "transactions-list",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "transactions-list"
+}
